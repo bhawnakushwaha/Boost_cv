@@ -80,41 +80,41 @@ ATS_SCORER/
 
 #### Landing Page
 
-<img width="800" height="600" alt="home_page" src="https://github.com/user-attachments/assets/de8410ce-1a37-4785-bfc5-ca1517bcf52e" />
+<img width="800" height="400" alt="home_page" src="https://github.com/user-attachments/assets/de8410ce-1a37-4785-bfc5-ca1517bcf52e" />
 
 
-<img width="800" height="600" alt="homw2" src="https://github.com/user-attachments/assets/16fdc346-99f8-4a77-84da-fec82aa7a706" />
+<img width="800" height="400" alt="homw2" src="https://github.com/user-attachments/assets/16fdc346-99f8-4a77-84da-fec82aa7a706" />
 
 
 
 #### ATS Score Page
 
-<img width="800" height="600" alt="r1" src="https://github.com/user-attachments/assets/d524acda-808b-4bc9-a35a-770dca42f515" />
+<img width="800" height="400" alt="r1" src="https://github.com/user-attachments/assets/d524acda-808b-4bc9-a35a-770dca42f515" />
 
 
-<img width="800" height="600" alt="r2" src="https://github.com/user-attachments/assets/3fcb2a1f-cf74-461b-b991-eddeb4ccecbe" />
+<img width="800" height="400" alt="r2" src="https://github.com/user-attachments/assets/3fcb2a1f-cf74-461b-b991-eddeb4ccecbe" />
 
 
 
 #### Detailed Feedback
 
-<img width="800" height="600" alt="r3" src="https://github.com/user-attachments/assets/fb7de513-8859-4808-acee-39f822f70cf0" />
+<img width="800" height="400" alt="r3" src="https://github.com/user-attachments/assets/fb7de513-8859-4808-acee-39f822f70cf0" />
 
 
-<img width="800" height="600" alt="r4" src="https://github.com/user-attachments/assets/4c55919f-538b-4845-a96c-6b56470ca198" />
+<img width="800" height="400" alt="r4" src="https://github.com/user-attachments/assets/4c55919f-538b-4845-a96c-6b56470ca198" />
 
 
 #### History
 
-<img width="800" height="600" alt="history" src="https://github.com/user-attachments/assets/b4d42de3-18ce-4d62-951d-7ac649ade929" />
+<img width="800" height="400" alt="history" src="https://github.com/user-attachments/assets/b4d42de3-18ce-4d62-951d-7ac649ade929" />
 
 
 #### Resources
 
-<img width="800" height="600" alt="resources" src="https://github.com/user-attachments/assets/5242b625-02f2-46bd-96d8-f372ab18813c" />
+<img width="800" height="400" alt="resources" src="https://github.com/user-attachments/assets/5242b625-02f2-46bd-96d8-f372ab18813c" />
 
 
-<img width="800" height="600" alt="resource2" src="https://github.com/user-attachments/assets/d900e597-ef60-42c3-a25a-de16b875280d" />
+<img width="800" height="400" alt="resource2" src="https://github.com/user-attachments/assets/d900e597-ef60-42c3-a25a-de16b875280d" />
 
 
 ---
