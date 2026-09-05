@@ -58,18 +58,33 @@ Python 3.13
 ---
 ## Project structure
 
+```text
 ATS_SCORER/
-├── backend/              FastAPI app, NLP services, API routes
-|
-├── frontend/             Streamlit app, views, components
-|
-├── jupyter notebooks/    Research and dataset prep (not used at runtime)
-|
-├── model/                Exported ML artifacts
-|
-├── requirements.txt      Combined backend + frontend dependencies
-|
-└── .env.example          Template for environment variables
+│
+├── backend/                  # FastAPI app, NLP services, API routes
+│   ├── api/
+│   ├── services/
+│   └── ...
+│
+├── frontend/                 # Streamlit app, views, components
+│   ├── views/
+│   ├── components/
+│   └── ...
+│
+├── notebooks/                # Research and dataset preparation
+│   ├── data_preparation/
+│   ├── model_training/
+│   └── ...
+│
+├── model/                    # Exported ML artifacts
+│   ├── exported_models/
+│   └── ...
+│
+├── requirements.txt         # Combined backend + frontend dependencies
+├── .env.example
+├── README.md
+└── .gitignore
+```
 
 
 
