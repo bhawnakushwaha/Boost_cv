@@ -60,10 +60,15 @@ Python 3.13
 
 ATS_SCORER/
 ├── backend/              FastAPI app, NLP services, API routes
+|
 ├── frontend/             Streamlit app, views, components
+|
 ├── jupyter notebooks/    Research and dataset prep (not used at runtime)
+|
 ├── model/                Exported ML artifacts
+|
 ├── requirements.txt      Combined backend + frontend dependencies
+|
 └── .env.example          Template for environment variables
 
 
@@ -75,40 +80,41 @@ ATS_SCORER/
 
 #### Landing Page
 
-![alt text](home_page.png)
+<img width="800" height="600" alt="home_page" src="https://github.com/user-attachments/assets/de8410ce-1a37-4785-bfc5-ca1517bcf52e" />
 
-![alt text](homw2.png)
+
+<img width="800" height="600" alt="homw2" src="https://github.com/user-attachments/assets/16fdc346-99f8-4a77-84da-fec82aa7a706" />
 
 
 
 #### ATS Score Page
 
-![alt text](r1.png)
+<img width="800" height="600" alt="r1" src="https://github.com/user-attachments/assets/d524acda-808b-4bc9-a35a-770dca42f515" />
 
-![alt text](r2.png)
+
+<img width="800" height="600" alt="r2" src="https://github.com/user-attachments/assets/3fcb2a1f-cf74-461b-b991-eddeb4ccecbe" />
 
 
 
 #### Detailed Feedback
 
-![alt text](r3.png)
-
-![alt text](r4.png)
+<img width="800" height="600" alt="r3" src="https://github.com/user-attachments/assets/fb7de513-8859-4808-acee-39f822f70cf0" />
 
 
+<img width="800" height="600" alt="r4" src="https://github.com/user-attachments/assets/4c55919f-538b-4845-a96c-6b56470ca198" />
 
 
 #### History
 
-![alt text](history.png)
-
+<img width="800" height="600" alt="history" src="https://github.com/user-attachments/assets/b4d42de3-18ce-4d62-951d-7ac649ade929" />
 
 
 #### Resources
 
-![alt text](resources.png)
+<img width="800" height="600" alt="resources" src="https://github.com/user-attachments/assets/5242b625-02f2-46bd-96d8-f372ab18813c" />
 
-![alt text](resource2.png)
+
+<img width="800" height="600" alt="resource2" src="https://github.com/user-attachments/assets/d900e597-ef60-42c3-a25a-de16b875280d" />
 
 
 ---
